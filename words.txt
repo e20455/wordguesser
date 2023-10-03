@@ -1,0 +1,95 @@
+Apple,fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+Apricot,Asian tree having clusters of usually white blossoms and edible fruit resembling the peach
+Avocado,a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed
+Banana,any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits
+Bilberry,erect European blueberry having solitary flowers and blue-black berries
+Blackberry,large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus
+Blueberry,any of numerous shrubs of the genus Vaccinium bearing blueberries
+Currant,any of several tart red or black berries used primarily for jellies and jams
+Cherry,wood of any of various cherry trees especially the black cherry
+Cherimoya,small tropical American tree bearing round or oblong fruit
+Clementine,a variety of mandarin orange that is grown around the Mediterranean and in South Africa
+Date,the specified day of the month
+Damson,dark purple plum of the damson tree
+Durian,tree of southeastern Asia having edible oval fruit with a hard spiny rind
+Eggplant,egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow
+Elderberry,a common shrub with black fruit or a small tree of Europe and Asia; fruit used for wines and jellies
+Feijoa,South American shrub having edible greenish plumlike fruit
+Gooseberry,spiny Eurasian shrub having greenish purple-tinged flowers and ovoid yellow-green or red-purple berries
+Grape,any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters
+Grapefruit,citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp
+Guava,small tropical shrubby tree bearing small yellowish fruit
+Huckleberry,any of various dark-fruited as distinguished from blue-fruited blueberries
+Jackfruit,East Indian tree cultivated for its immense edible fruit and seeds
+Kumquat,any of several trees or shrubs of the genus Fortunella bearing small orange-colored edible fruits with thick sweet-flavored skin and sour pulp
+Legume,an erect or climbing bean or pea plant of the family Leguminosae
+Lemon,yellow oval fruit with juicy acidic flesh
+Lime,a caustic substance produced by heating limestone
+Lychee,Chinese fruit having a thin brittle shell enclosing a sweet jellylike pulp and a single seed; often dried
+Mango,large evergreen tropical tree cultivated for its large oval fruit
+Melon,any of numerous fruits of the gourd family having a hard rind and sweet juicy flesh
+Cantaloupe,a variety of muskmelon vine having fruit with a tan rind and orange flesh
+Watermelon,an African melon
+Nectarine,variety or mutation of the peach bearing fruit with smooth skin and (usually
+Orange,round yellow to orange fruit of any of several citrus trees
+Peach,cultivated in temperate regions
+Pear,sweet juicy gritty-textured fruit available in many varieties
+Physalis,ground cherries
+Plum,any of several trees producing edible oval fruit having a smooth skin and a single hard stone
+Pineapple,a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics
+Pomegranate,shrub or small tree native to southwestern Asia having large red many-seeded fruit
+Raisin,dried grape
+Raspberry,woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries
+Rambutan,Malayan tree bearing spiny red fruit
+Satsuma,a variety of mandarin orange
+Strawberry,sweet fleshy red fruit
+Tangerine,a variety of mandarin orange
+Tomato,mildly acid red or yellow pulpy fruit eaten as a vegetable
+Watermelon,an African melon
+area,a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography
+book,a written work or composition that has been published (printed on pages bound together
+business,a commercial or industrial enterprise and the people who constitute it
+case,an occurrence of something
+child,a young person of either sex
+company,an institution created to conduct business
+country,a politically organized body of people under a single government
+day,time for Earth to make a complete rotation on its axis
+eye,the organ of sight
+fact,a piece of information about circumstances that exist or events that have occurred
+family,a social unit living together
+government,the organization that is the governing authority of a political unit
+group,any number of entities
+home,where you live at a particular time
+job,the principal activity in your life that you do to earn money
+life,a characteristic state or mode of living
+lot,a parcel of land having fixed boundaries
+man,an adult person who is male (as opposed to a woman)
+money,the most common medium of exchange; functions as legal tender
+month,one of the twelve divisions of the calendar year
+Mr,a form of address for a man
+night,the time after sunset and before sunrise while it is dark outside
+number,the property possessed by a sum or total or indefinite quantity of units or individuals
+part,something determined in relation to something that includes it
+place,a point located with respect to surface features of some region
+point,a geometric element that has position but no extension
+problem,a state of difficulty that needs to be resolved
+program,a series of steps to be carried out or goals to be accomplished
+question,an instance of questioning
+right,an abstract idea of that which is due to a person or governmental body by law or tradition or nature
+room,an area within a building enclosed by walls and floor and ceiling
+school,an educational institution
+state,the territory occupied by one of the constituent administrative districts of a nation
+story,a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+student,a learner who is enrolled in an educational institution
+study,a detailed critical inspection
+system,instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity
+thing,a special situation
+time,an instance or single occasion for some event
+water,binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent
+way,how something is done or how it happens
+week,any period of seven consecutive days
+woman,an adult female person (as opposed to a man
+word,a unit of language that native speakers can identify
+work,activity directed toward making or doing something
+world,everything that exists anywhere
+year,a period of time containing 365 (or 366
