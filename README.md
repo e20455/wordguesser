@@ -1,4 +1,4 @@
-<p>A word guessing game built using python with a command-line interface, was created as part of a group university project</p>
+<p>A word guessing game built using python with a command-line interface, was created as part of a group university project.</p>
 
 <p>In order to load the game, make sure all code files exist within the same directory.</p> 
   
