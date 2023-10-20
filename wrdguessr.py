@@ -356,10 +356,10 @@ Select one of the following options:
 
     You begin the round with 5 points. For every correct guess, you will be awarded
     with 10 points, but beware if you make an incorrect guess, you will lose a point.
-    If the socre ever falls below zero in a round, the round will be over.
+    If the score ever falls below zero in a round, the round will be over.
 
     At the end of the round, your score will be added to you all time score, and if you
-    are good at the game, you will be lsited as a champion on the leaderboard.
+    are good at the game, you will be listed as a champion on the leaderboard.
     
     Good Luck. We hope you enjoy playing WRDGUESSR.
     ''')  # <--
